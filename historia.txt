@@ -3,3 +3,5 @@ Este es un archivo de prueba
 es para revisar cambios en GIT.
 
 esta es otra linea de cambio
+
+Ahora realizamos otra parte de los cambios
